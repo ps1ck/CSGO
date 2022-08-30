@@ -1,0 +1,69 @@
+html {
+    background-color: #13136b;   
+    font-size: 10px; 
+    font-family: "Alumni Sans Pinstripe" , sans-serif;
+  }
+  h1{
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(180, 176, 176);
+    text-shadow: 3px 4px 1px black;
+  }
+  h2{
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(180, 176, 176);
+    text-shadow: 3px 4px 1px black;
+  }
+  p, li {
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color:rgb(214, 211, 211);
+  }
+  body {
+    width: 1235px;
+    margin: 0 auto;
+    background-color: #2222b1 ;
+    padding: 0 60px 60px 60px;
+    border: 2px solid black;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 1060px;
+  }
+a{
+  color:white;
+}
+.imagemOne img{
+  max-width: 1000px;
+  max-height: 700px;
+}
+.imagemTwo img{
+  max-width: 900px;
+  max-height: 600px;
+}
+.Three img{
+  max-width: 550px;
+  max-height: 350px;
+  display: inline-block;
+}
+.Four img{
+  max-width: 550px;
+  max-height: 350px;
+  display: inline-block;
+}
+.Five img{
+  max-width: 550px;
+  max-height: 350px;
+  display: inline-block;
+}
+.Six img{
+  max-width: 950px;
+  max-height: 650px;
+}
